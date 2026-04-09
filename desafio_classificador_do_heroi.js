@@ -1,5 +1,5 @@
 let nomeDoHeroi = "Rafael"
-let xp = 5000
+let xp = 8000
 let nivelDoHeroi = "";
 switch (true) {
     case (xp < 1000):
